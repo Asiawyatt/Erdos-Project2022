@@ -1,4 +1,4 @@
-# Erdos-Project2022
+# Erdos-Project2022: Team Pioneer
 
 
 [![Team Pioneer](https://user-images.githubusercontent.com/98902426/172016057-07f8758e-382c-4280-8580-26311bb5ea46.png)](https://github.com/Asiawyatt/Erdos-Project2022/files/8838236/Team.Pioneer.pdf)
@@ -8,14 +8,14 @@ The clinical trial process is a multi-year, often decade-long process that invol
 The goal of our project is to provide insight into which of these factors are most important in having a clinical trial make it to completion. Specifically, we aim to determine which of these factors when structuring a clinical trial are the most important for cancer intervention trial completion and to predict whether or not a test set of trials will be completed. Using data provided by https://clinicaltrials.gov/ we assessed interventional cancer studies that aimed to bring a new treatment to the market.
 
 Our initial research and intuition on viability of clinical trials we selected to analyze the following properties of our subset of clinical trials:
-Conditions (cancer types the therapy is tested for)  
-Funder Type (NIH/Federal funding, Industry, or other)  
-Study design (masking, etc)  
-Study duration  
-Study location (Hospital/University or not)  
-Number of participants  
-Minimum age of participants  
-Gender of participants  
+-Conditions (cancer types the therapy is tested for)  
+-Funder Type (NIH/Federal funding, Industry, or other)  
+-Study design (masking, etc)  
+-Study duration  
+-Study location (Hospital/University or not)  
+-Number of participants  
+-Minimum age of participants  
+-Gender of participants  
 
 See [CancerClinicalTrialData.csv](https://github.com/Asiawyatt/Erdos-Project2022/CancerClinicalTrialData.csv) for raw data  
 See [DataExploration.ipynb](https://github.com/Asiawyatt/Erdos-Project2022/DataExploration.ipynb) for data exploration and feature selection  
