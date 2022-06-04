@@ -1,7 +1,7 @@
 # Erdos-Project2022
 
 
-[Team Pioneer.pdf](https://github.com/Asiawyatt/Erdos-Project2022/files/8838236/Team.Pioneer.pdf)
+[[Team Pioneer.pdf](https://user-images.githubusercontent.com/98902426/172016057-07f8758e-382c-4280-8580-26311bb5ea46.png)](https://github.com/Asiawyatt/Erdos-Project2022/files/8838236/Team.Pioneer.pdf)
 ![Team Pioneer](https://user-images.githubusercontent.com/98902426/172016057-07f8758e-382c-4280-8580-26311bb5ea46.png)
 
 The clinical trial process is a multi-year, often decade-long process that involves rigorous research and testing from the petri dish to double-blind human tests. The overall cost to bring a single intervention to market can cost in the range of hundreds of millions of dollars to well over a billion dollars. Once a drug reaches the clinical trial stage, there are many factors that are taken into consideration for how to structure said trial–the age and number of participants, levels of masking, the location for the trial, etc. 
